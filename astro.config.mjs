@@ -8,7 +8,6 @@ export default defineConfig({
     output: 'static',
     trailingSlash: 'always',
     site: 'https://jamaleko.github.io',
-    base: '/myporto',
 
     // Single page, no prefetch needed
     prefetch: false,
